@@ -17,6 +17,9 @@ Thumbs.db
 # Raycast specific
 .raycast/
 
+# Configuration files (personal settings)
+config.json
+
 # Logs
 *.log
 npm-debug.log*
