@@ -36,7 +36,7 @@ set debugMode to debugMode of config
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title Switch to Production
-# @raycast.mode compact
+# @raycast.mode silent
 
 # Optional parameters:
 # @raycast.icon 🌐
