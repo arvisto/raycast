@@ -1,0 +1,6 @@
+{
+  "productionURL": "https://www.infotech.com",
+  "localURL": "http://127.0.0.1:9001",
+  "debugMode": false,
+  "_comment": "Copy this file to config.json and modify the values for your setup"
+}
